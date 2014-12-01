@@ -1,4 +1,5 @@
-/* Written by Nathan Verjinski and Kunal Sarkhel */
+/* 	File originally from OS-161. This file has been largely edited and 
+	implemented by Nathan Verjinski and Kunal Sarkhel 		*/
 
 
 #include <types.h>
